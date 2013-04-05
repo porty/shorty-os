@@ -6,7 +6,7 @@ Pretty much the worst Operating System ever (worse than Windows ME)
 How Do I Make It?
 -----------------
 
-It might work with other assemblers, but I used [http://flatassembler.net/download.php](Flat Assembler)
+It might work with other assemblers, but I used [Flat Assembler](http://flatassembler.net/download.php)
 
 Just compile ``main.asm`` (``fasm main.asm``). You can also open it in the FASM GUI and hit compile.
 
